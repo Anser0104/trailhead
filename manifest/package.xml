@@ -5,13 +5,9 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
-		<members>button</members>
-		<members>controls</members>
-		<members>myFirstWebComponent</members>
-		<members>nonReactivePropertycomp</members>
-		<members>numerator</members>
-		<members>reactivePropertyComp</members>
-		<name>LightningComponentBundle</name>
+		<members>getContactswithEmailorPhone</members>
+		<name>Flow</name>
 	</types>
-	<version>55.0</version>
+	
+	<version>60.0</version>
 </Package>
